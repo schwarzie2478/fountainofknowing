@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/az-204-azure-app-service/","tags":["AZ-204","study","concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["AZ-204","study","concept/SRE/cloud/azure"],"ms-learn-url":"https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-app-service/","permalink":"/concepts/az-204-azure-app-service/","dgPassFrontmatter":true}
 ---
 
 Learning about [[Concepts/Azure App Service\|Azure App Service]]
