@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-developer-cli/","tags":["concept/SRE/cloud/azure","review","tool"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure","review","tool"],"definition":"Azure Developer CLI (azd) is an open-source tool that accelerates the time it takes for you to get your application from local development environment to Azure.","aliases":["azd"],"ms-learn-url":"(https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/overview)","permalink":"/concepts/azure-developer-cli/","dgPassFrontmatter":true}
 ---
 
 
