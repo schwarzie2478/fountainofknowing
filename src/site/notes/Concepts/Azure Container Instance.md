@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-container-instance/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"aliases":["ACI"],"definition":"Azure Container Instances is a solution for any scenario that can operate in isolated containers, without orchestration.","ms-learn-url":"(https://learn.microsoft.com/en-us/azure/container-instances/)","permalink":"/concepts/azure-container-instance/","dgPassFrontmatter":true}
 ---
 
 
