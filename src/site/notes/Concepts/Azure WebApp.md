@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-web-app/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"Azure WebApp allow you to build and host your websites and web back-ends","permalink":"/concepts/azure-web-app/","dgPassFrontmatter":true}
 ---
 
 
