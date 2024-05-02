@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/device-code-flow/","tags":["concept/SRE/cloud"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud"],"definition":"Alternatve way of autherizing access to an resource.Through an Device code generated on the device","permalink":"/concepts/device-code-flow/","dgPassFrontmatter":true}
 ---
 
 
