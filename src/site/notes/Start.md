@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/start/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/start/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
-## Welcome to my knownledge vault!
+## Welcome to my knowledge vault!
 
 
 Certification AZ-204: [[Concepts/Study guide AZ-204\|Study guide AZ-204]]
