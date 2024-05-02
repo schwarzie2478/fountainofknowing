@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-site-extensions/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"Site Extensions are management endpoints allows extending your site management tools.","ms-learn-url":"https://azure.microsoft.com/en-us/blog/azure-web-sites-extensions/","permalink":"/concepts/azure-site-extensions/","dgPassFrontmatter":true}
 ---
 
 
