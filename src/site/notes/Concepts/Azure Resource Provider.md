@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-resource-provider/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"An Azure resource provider is a set of REST operations that enable functionality for a specific Azure service.","ms-learn-url":"https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/resource-providers-and-types","permalink":"/concepts/azure-resource-provider/","dgPassFrontmatter":true}
 ---
 
 
