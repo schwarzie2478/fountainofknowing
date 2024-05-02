@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/continuous-integration/","tags":["concept/SRE"]}
+{"dg-publish":true,"tags":["concept/SRE"],"definition":"Continuous integration is the practice of integrating all your code changes into the main branch of a shared source code repository early and often, automatically testing each change when you commit or merge them, and automatically kicking off a build.","permalink":"/concepts/continuous-integration/","dgPassFrontmatter":true}
 ---
 
 Often tied to [[Concepts/Continuous Deployment\|Continuous Deployment]]
