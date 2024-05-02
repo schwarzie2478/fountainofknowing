@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-location/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"Regions covered by Azure datacenters locally","aliases":["Azure Region"],"permalink":"/concepts/azure-location/","dgPassFrontmatter":true}
 ---
 
 
