@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/api-guidelines/","tags":["concept/SRE/cloud"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud"],"permalink":"/concepts/api-guidelines/","dgPassFrontmatter":true}
 ---
 
 
