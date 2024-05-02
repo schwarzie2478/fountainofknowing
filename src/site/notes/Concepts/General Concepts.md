@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/general-concepts/","tags":["landingpage"]}
+{"dg-publish":true,"tags":["landingpage"],"definition":"Landing page for all collected concepts and knowledge","permalink":"/concepts/general-concepts/","dgPassFrontmatter":true}
 ---
 
 
