@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/data-collection-rules/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"aliases":["DCR"],"definition":"Data collection rules (DCRs) are sets of instructions supporting data collection in Azure Monitor  agent","ms-learn-url":"(https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-overview?tabs=portal)","permalink":"/concepts/data-collection-rules/","dgPassFrontmatter":true}
 ---
 
 
