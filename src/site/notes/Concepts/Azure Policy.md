@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-policy/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"Azure Policy helps to enforce organizational standards and to assess compliance at-scale.Azure Policy evaluates resources and actions in Azure by comparing the properties of those resources to business rules.","ms-learn-url":"https://learn.microsoft.com/en-us/azure/governance/policy/overview","permalink":"/concepts/azure-policy/","dgPassFrontmatter":true}
 ---
 
 
