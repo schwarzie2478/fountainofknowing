@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/chaos-engineering/","tags":["concept/SRE","best-practices"]}
+{"dg-publish":true,"tags":["concept/SRE","best-practices"],"definition":"The practice of subjecting applications and services to real-world stresses and failures. The goal is to build and validate resilience to unreliable conditions and missing dependencies.","permalink":"/concepts/chaos-engineering/","dgPassFrontmatter":true}
 ---
 
 A.k.a. : [[Concepts/Chaos Monkey\|Chaos Monkey]]
