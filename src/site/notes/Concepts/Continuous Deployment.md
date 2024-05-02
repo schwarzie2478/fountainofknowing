@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/continuous-deployment/","tags":["concept/SRE"]}
+{"dg-publish":true,"tags":["concept/SRE"],"permalink":"/concepts/continuous-deployment/","dgPassFrontmatter":true}
 ---
 
 Often tied to [[Concepts/Continuous Integration\|Continuous Integration]]
