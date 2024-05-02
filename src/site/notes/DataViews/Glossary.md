@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-views/glossary/","tags":["landingpage"]}
+{"dg-publish":true,"tags":["landingpage"],"permalink":"/data-views/glossary/","dgPassFrontmatter":true}
 ---
 
 | Source                                                                                                                                   | definition                                                                                                                                                                                                                                                                             | aliases                        |
