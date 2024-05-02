@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/study-guide-az-204/","tags":["concept/SRE/cloud/azure","AZ-204","landingpage","study"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure","AZ-204","landingpage","study"],"definition":"Study guide for AZ-204","ms-learn-url":"https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-204","permalink":"/concepts/study-guide-az-204/","dgPassFrontmatter":true}
 ---
 
 
