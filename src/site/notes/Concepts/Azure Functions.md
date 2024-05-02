@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-functions/","tags":["concept/SRE/cloud/azure","review"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure","review"],"ms-learn-url":"https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview?pivots=programming-language-csharp","definition":"Azure Functions is a serverless solution that allows you to write less code, maintain less infrastructure, and save on costs","permalink":"/concepts/azure-functions/","dgPassFrontmatter":true}
 ---
 
 Code: [[Concepts/Azure Function Scenarios\|Azure Function Scenarios]]
