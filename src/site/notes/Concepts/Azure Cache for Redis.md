@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-cache-for-redis/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"type":"term","definition":"Azure Cache for Redis provides an in-memory data store","ms-learn-url":"(https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview)","permalink":"/concepts/azure-cache-for-redis/","dgPassFrontmatter":true}
 ---
 
 
