@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-location-example-listing/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"definition":"An extracted list from the commandline tools for reference","tags":["concept/SRE/cloud/azure"],"permalink":"/concepts/azure-location-example-listing/","dgPassFrontmatter":true}
 ---
 
 Listing of possible [[Concepts/Azure Location\|Azure Location]]:
