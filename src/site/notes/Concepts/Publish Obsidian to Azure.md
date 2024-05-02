@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/publish-obsidian-to-azure/","tags":["concept/SRE/cloud/azure","review","study","AZ-204"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure","review","study","AZ-204"],"definition":"How to publish Obsidian vault to an azure subscription.","permalink":"/concepts/publish-obsidian-to-azure/","dgPassFrontmatter":true}
 ---
 
 Goals:
