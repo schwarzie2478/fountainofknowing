@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-app-service-environment/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"Allow Applications to run on isolated and dedicated environment at high scale.","ms-learn-url":"https://learn.microsoft.com/en-us/azure/app-service/environment/overview","permalink":"/concepts/azure-app-service-environment/","dgPassFrontmatter":true}
 ---
 
 
