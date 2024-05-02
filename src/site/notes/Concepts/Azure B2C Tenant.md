@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-b2-c-tenant/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"type":"term","definition":"Azure AD B2C tenant represents a collection of identities to be used with relying party applications.","permalink":"/concepts/azure-b2-c-tenant/","dgPassFrontmatter":true}
 ---
 
 
