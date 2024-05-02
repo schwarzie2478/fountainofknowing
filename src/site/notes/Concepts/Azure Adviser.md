@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-adviser/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"ms-learn-url":"https://learn.microsoft.com/en-us/azure/advisor/advisor-overview","definition":"Advisor is a digital cloud assistant that helps you follow best practices to optimize your Azure deployments.","permalink":"/concepts/azure-adviser/","dgPassFrontmatter":true}
 ---
 
