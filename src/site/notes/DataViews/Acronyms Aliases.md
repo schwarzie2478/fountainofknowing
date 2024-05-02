@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-views/acronyms-aliases/","tags":["landingpage"]}
+{"dg-publish":true,"tags":["landingpage"],"permalink":"/data-views/acronyms-aliases/","dgPassFrontmatter":true}
 ---
 
 | Source                                                                                                                                   | aliases                        |
