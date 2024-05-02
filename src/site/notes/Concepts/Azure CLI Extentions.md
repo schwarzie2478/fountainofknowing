@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-cli-extentions/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"ms-learn-url":"https://learn.microsoft.com/en-us/cli/azure/azure-cli-extensions-list","permalink":"/concepts/azure-cli-extentions/","dgPassFrontmatter":true}
 ---
 
 Used by [[Concepts/Azure CLI\|Azure CLI]]
