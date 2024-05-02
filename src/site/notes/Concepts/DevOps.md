@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/dev-ops/","tags":["concept/SRE"]}
+{"dg-publish":true,"tags":["concept/SRE"],"definition":"A compound of development (Dev) and operations (Ops), DevOps is the union of people, process, and technology to continually provide value to customers.","ms-learn-url":"https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-devops","permalink":"/concepts/dev-ops/","dgPassFrontmatter":true}
 ---
 
 Steps
