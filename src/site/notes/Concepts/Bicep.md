@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/bicep/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"ms-learn-url":"https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep","definition":"Bicep is a domain-specific language (DSL) that uses declarative syntax to deploy Azure resources.","permalink":"/concepts/bicep/","dgPassFrontmatter":true}
 ---
 
 
