@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-views/learn-reference/","tags":["landingpage"]}
+{"dg-publish":true,"tags":["landingpage"],"permalink":"/data-views/learn-reference/","dgPassFrontmatter":true}
 ---
 
 | Source                                                                                                                                   | definition                                                                                                                                                                                                                                                                             | ms-learn-url                                                                                                                                    |
