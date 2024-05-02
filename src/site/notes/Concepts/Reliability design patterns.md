@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/reliability-design-patterns/","tags":["concept/SRE","review"]}
+{"dg-publish":true,"tags":["concept/SRE","review"],"ms-learn-url":"https://learn.microsoft.com/en-us/azure/well-architected/reliability/principles","permalink":"/concepts/reliability-design-patterns/","dgPassFrontmatter":true}
 ---
 
 ## [Design for business requirements](https://learn.microsoft.com/en-us/azure/well-architected/reliability/principles#design-for-business-requirements)
