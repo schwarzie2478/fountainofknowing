@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/service-principle/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"type":"term","definition":"An functional account credential to provide non-interactive access to resources.","ms-learn-url":"(https://learn.microsoft.com/en-us/cli/azure/azure-cli-sp-tutorial-1?tabs=bash)","permalink":"/concepts/service-principle/","dgPassFrontmatter":true}
 ---
 
 
