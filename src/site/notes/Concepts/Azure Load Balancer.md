@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-load-balancer/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"type":"term","definition":"Defines the SKU on which the apps will be running, each plan belongs to one region","permalink":"/concepts/azure-load-balancer/","dgPassFrontmatter":true}
 ---
 
 
