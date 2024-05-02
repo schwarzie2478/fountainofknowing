@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/peering/","tags":["concept/SRE/cloud"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud"],"definition":"connecting between two networks","permalink":"/concepts/peering/","dgPassFrontmatter":true}
 ---
 
