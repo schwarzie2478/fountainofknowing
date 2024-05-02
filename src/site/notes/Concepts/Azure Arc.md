@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-arc/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"Connects On-Premise Service to Azure","permalink":"/concepts/azure-arc/","dgPassFrontmatter":true}
 ---
 
 
