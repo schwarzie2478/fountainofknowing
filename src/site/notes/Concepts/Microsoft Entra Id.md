@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/microsoft-entra-id/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"aliases":["AAD"],"definition":"Azure Identity Management service, previously known as Azure Active Directory","ms-learn-url":"https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles","permalink":"/concepts/microsoft-entra-id/","dgPassFrontmatter":true}
 ---
 
 
