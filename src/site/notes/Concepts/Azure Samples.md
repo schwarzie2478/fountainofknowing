@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-samples/","tags":["concept/SRE/cloud/azure /sdk"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure /sdk"],"github-url":"https://github.com/Azure-Samples","definition":"Microsoft Azure code samples and examples in .NET, Java, Python, JavaScript, TypeScript, PHP and Ruby","permalink":"/concepts/azure-samples/","dgPassFrontmatter":true}
 ---
 
 
