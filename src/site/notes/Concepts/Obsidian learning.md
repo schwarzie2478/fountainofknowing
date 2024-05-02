@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/obsidian-learning/","tags":["concept/obsidian"]}
+{"dg-publish":true,"tags":["concept/obsidian"],"permalink":"/concepts/obsidian-learning/","dgPassFrontmatter":true}
 ---
 
 publish: https://github.com/oleeskild/Obsidian-digital-garden
