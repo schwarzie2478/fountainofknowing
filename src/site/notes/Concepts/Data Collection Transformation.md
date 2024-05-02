@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/data-collection-transformation/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"With transformations in Azure Monitor, you can filter or modify incoming data before it's sent to a Log Analytics workspace.","ms-learn-url":"https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-transformations","permalink":"/concepts/data-collection-transformation/","dgPassFrontmatter":true}
 ---
 
 See also:
