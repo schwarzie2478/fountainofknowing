@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-front-door-point-of-presence-locations/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"aliases":["POP"],"ms-learn-url":"https://learn.microsoft.com/en-us/azure/frontdoor/edge-locations-by-region","permalink":"/concepts/azure-front-door-point-of-presence-locations/","dgPassFrontmatter":true}
 ---
 
