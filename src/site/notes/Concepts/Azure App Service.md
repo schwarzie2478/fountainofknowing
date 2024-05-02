@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-app-service/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"ms-learn-url":"(https://learn.microsoft.com/en-us/azure/app-service/)","definition":"Azure App Service is an HTTP-based service for hosting web applications, REST APIs, and mobile back ends. You can develop in your favorite programming language or framework.","tags":["concept/SRE/cloud/azure"],"permalink":"/concepts/azure-app-service/","dgPassFrontmatter":true}
 ---
 
 
