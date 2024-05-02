@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/policy-initiative/","tags":["concept/SRE"]}
+{"dg-publish":true,"tags":["concept/SRE"],"permalink":"/concepts/policy-initiative/","dgPassFrontmatter":true}
 ---
 
 consists of [[Concepts/Policy Definition\|Policy Definition]]
