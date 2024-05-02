@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/adkar/","tags":["concept/general"]}
+{"dg-publish":true,"tags":["concept/general"],"definition":"ADKAR Model focuses on individual change—guiding individuals through a particular change and addressing any roadblocks or barrier points along the way.","url":"https://www.prosci.com/methodology/adkar","permalink":"/concepts/adkar/","dgPassFrontmatter":true}
 ---
 
 Example of [[Concepts/Change Management\|Change Management]]
