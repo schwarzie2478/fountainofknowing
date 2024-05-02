@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/cloud-engineering-patterns/","tags":["concept/SRE","landingpage"]}
+{"dg-publish":true,"tags":["concept/SRE","landingpage"],"permalink":"/concepts/cloud-engineering-patterns/","dgPassFrontmatter":true}
 ---
 
 - [[Concepts/Azure Load Balancer\|Azure Load Balancer]]
