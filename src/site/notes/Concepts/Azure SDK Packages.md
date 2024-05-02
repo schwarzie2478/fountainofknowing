@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-sdk-packages/","tags":["concept/SRE/cloud/azure /sdk","review"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure /sdk","review"],"ms-learn-url":"https://learn.microsoft.com/en-us/dotnet/azure/sdk/packages","definition":"Azure SDK for .NET package index","permalink":"/concepts/azure-sdk-packages/","dgPassFrontmatter":true}
 ---
 
