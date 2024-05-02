@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/azure-virtual-machine/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"Azure virtual machines are one of several types of on-demand, scalable computing resources that Azure offers.","ms-learn-url":"https://learn.microsoft.com/en-us/azure/virtual-machines/overview","permalink":"/concepts/azure-virtual-machine/","dgPassFrontmatter":true}
 ---
 
 
