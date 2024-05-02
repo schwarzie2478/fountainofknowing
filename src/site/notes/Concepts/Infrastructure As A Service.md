@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/infrastructure-as-a-service/","tags":["concept/SRE"]}
+{"dg-publish":true,"tags":["concept/SRE"],"aliases":["IAAS"],"permalink":"/concepts/infrastructure-as-a-service/","dgPassFrontmatter":true}
 ---
 
 
