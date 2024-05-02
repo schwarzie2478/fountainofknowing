@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/shared-access-signature/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"aliases":["sas"],"definition":"A shared access signature (SAS) provides secure delegated access to resources in your storage account. With a SAS, you have granular control over how a client can access your data.","ms-learn-url":"(https://learn.microsoft.com/en-us/azure/storage/common/storage-sas-overview)","permalink":"/concepts/shared-access-signature/","dgPassFrontmatter":true}
 ---
 
 
