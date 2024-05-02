@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/testing-page/","tags":["review","concept/obsidian"]}
+{"dg-publish":true,"tags":["review","concept/obsidian"],"definition":"Page to test things for this vault","permalink":"/concepts/testing-page/","dgPassFrontmatter":true}
 ---
 
 ```mermaid
