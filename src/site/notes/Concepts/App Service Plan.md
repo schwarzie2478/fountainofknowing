@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/app-service-plan/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"aliases":["Server Farm"],"tags":["concept/SRE/cloud/azure"],"definition":"This defines the SKU on which the apps will be running, each plan belongs to one region","ms-learn-url":"https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans","permalink":"/concepts/app-service-plan/","dgPassFrontmatter":true}
 ---
 
 Each service plan has an admin site (F.e. https://mysite.scm.azurewebsites.net).
