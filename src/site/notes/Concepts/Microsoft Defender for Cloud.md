@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/microsoft-defender-for-cloud/","tags":["concept/SRE/cloud/azure"]}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"ms-learn-url":"https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction","definition":"Microsoft Defender for Cloud is a cloud-native application protection platform (CNAPP) that is made up of security measures and practices that are designed to protect cloud-based applications from various cyber threats and vulnerabilities.","permalink":"/concepts/microsoft-defender-for-cloud/","dgPassFrontmatter":true}
 ---
 
 Defender for Cloud combines the capabilities of:
