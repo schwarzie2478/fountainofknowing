@@ -3,6 +3,7 @@
 ---
 
 
+## Welcome to my knownledge vault!
 
 TODO: [[DataViews/Review\|Review]]
 
