@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/fault-injection/","tags":["concept/SRE"]}
+{"dg-publish":true,"definition":"The act of introducing an error to a system. You can use different faults, such as network latency or loss of access to storage, to target system components. You can create scenarios that an application or service must be able to handle or recover from.","tags":["concept/SRE"],"permalink":"/concepts/fault-injection/","dgPassFrontmatter":true}
 ---
 
 Part of [[Concepts/Chaos Engineering\|Chaos Engineering]]
