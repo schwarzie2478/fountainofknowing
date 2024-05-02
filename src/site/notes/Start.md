@@ -5,11 +5,11 @@
 
 ## Welcome to my knownledge vault!
 
-TODO: [[DataViews/Review\|Review]]
 
 Certification AZ-204: [[Concepts/Study guide AZ-204\|Study guide AZ-204]]
-[[Concepts/KSS Open-Telemetry\|KSS Open-Telemetry]] 
-Concept:
+Preparation: [[Concepts/KSS Open-Telemetry\|KSS Open-Telemetry]] 
+
+Concepts:
 - [[Concepts/Stock Keeping Unit\|Stock Keeping Unit]]
 - [[Concepts/Failure Mode and Effects Analysis\|Failure Mode and Effects Analysis]]
 - [[Concepts/Executive Support System\|Executive Support System]]
@@ -23,7 +23,10 @@ Concept:
 
 { .block-language-dataview}
 
+Other:
+- [[DataViews/Acronyms Aliases\|Acronyms Aliases]]
+- [[DataViews/Glossary\|Glossary]]
+- [[DataViews/Learn Reference\|Learn Reference]]
 
-[[DataViews/Acronyms Aliases\|Acronyms Aliases]]
-[[DataViews/Glossary\|Glossary]]
-[[Concepts/AZ-204 Certification Bookmarks\|AZ-204 Certification Bookmarks]]
+{ .block-language-dataview}
+
