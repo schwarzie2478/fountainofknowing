@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["concept/SRE/cloud/azure","review"],"type":"term","definition":"How to request a user's permission to use their Microsoft account, obtain an access token, and use it to perform basic operations","ms-learn-url":"https://learn.microsoft.com/en-us/windows/uwp/security/web-account-manager","permalink":"/concepts/web-account-manager/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure","review"],"type":"term","definition":"How to request a user's permission to use their Microsoft account, obtain an access token, and use it to perform basic operations","ms-learn-url":"https://learn.microsoft.com/en-us/windows/uwp/security/web-account-manager","creation_date":"2024-05-02 18:40","permalink":"/concepts/web-account-manager/","dgPassFrontmatter":true}
 ---
 
 ChatGPT explanation:
