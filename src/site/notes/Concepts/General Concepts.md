@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"tags":["landingpage"],"definition":"Landing page for all collected concepts and knowledge","permalink":"/concepts/general-concepts/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["landingpage"],"definition":"Landing page for all collected concepts and knowledge","creation_date":"2024-05-02 22:00","permalink":"/concepts/general-concepts/","dgPassFrontmatter":true}
 ---
 
 
 Landing Pages:
 - [[Concepts/Software Engineering Patterns\|Software Engineering Patterns]]
-- [[Concepts/Study guide AZ-204\|Study guide AZ-204]]
 - [[Concepts/Cloud Engineering Patterns\|Cloud Engineering Patterns]]
 
 { .block-language-dataview}
