@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"Azure Monitor agentis a comprehensive monitoring solution for collecting, analyzing, and responding to monitoring data from your cloud and on-premises environments.","aliases":["AMA"],"ms-learn-url":"(https://learn.microsoft.com/en-us/azure/azure-monitor/overview)","permalink":"/concepts/azure-monitor-agent/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"Azure Monitor agentis a comprehensive monitoring solution for collecting, analyzing, and responding to monitoring data from your cloud and on-premises environments.","aliases":["AMA"],"ms-learn-url":"(https://learn.microsoft.com/en-us/azure/azure-monitor/overview)","creation_date":"2024-05-02 22:00","permalink":"/concepts/azure-monitor-agent/","dgPassFrontmatter":true}
 ---
 
 
