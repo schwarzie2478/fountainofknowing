@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"aliases":["AAD"],"definition":"Azure Identity Management service, previously known as Azure Active Directory","ms-learn-url":"https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles","permalink":"/concepts/microsoft-entra-id/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"aliases":["AAD"],"definition":"Azure Identity Management service, previously known as Azure Active Directory","ms-learn-url":"https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles","creation_date":"2024-05-02 22:00","permalink":"/concepts/microsoft-entra-id/","dgPassFrontmatter":true}
 ---
 
 
