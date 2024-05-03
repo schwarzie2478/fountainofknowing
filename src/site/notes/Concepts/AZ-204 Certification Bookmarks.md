@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["AZ-204","concept/SRE/cloud/azure"],"permalink":"/concepts/az-204-certification-bookmarks/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["AZ-204","concept/SRE/cloud/azure"],"creation_date":"2024-05-02 22:00","permalink":"/concepts/az-204-certification-bookmarks/","dgPassFrontmatter":true}
 ---
 
 
@@ -41,3 +41,4 @@ https://learn.microsoft.com/en-us/azure/app-service/deploy-continuous-deployment
 https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json
 https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/
 https://github.com/Azure-Samples
+https://github.com/dotnet/ai-samples
