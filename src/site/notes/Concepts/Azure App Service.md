@@ -1,6 +1,13 @@
 ---
-{"dg-publish":true,"ms-learn-url":"(https://learn.microsoft.com/en-us/azure/app-service/)","definition":"Azure App Service is an HTTP-based service for hosting web applications, REST APIs, and mobile back ends. You can develop in your favorite programming language or framework.","tags":["concept/SRE/cloud/azure"],"permalink":"/concepts/azure-app-service/","dgPassFrontmatter":true}
+{"dg-publish":true,"ms-learn-url":"(https://learn.microsoft.com/en-us/azure/app-service/)","definition":"Azure App Service is an HTTP-based service for hosting web applications, REST APIs, and mobile back ends. You can develop in your favorite programming language or framework.","tags":["concept/SRE/cloud/azure"],"creation_date":"2024-05-02 22:00","permalink":"/concepts/azure-app-service/","dgPassFrontmatter":true}
 ---
+
+
+- Built-in [[Concepts/App Service Auto Scaling\|Auto Scale Support]]
+- [[Concepts/Continuous Integration\|CI]]/[[Concepts/Continuous Deployment\|CD]] Support
+- [[Azure Deployment Slots\|Azure Deployment Slots]]
+- [[Concepts/Azure App Service on Linux\|Azure App Service on Linux]] ( [[Concepts/Azure App Service on Linux#Limitations\|with limitation]])
+
 
 
 Used to deploy  a [[Concepts/Azure WebApp\|Azure WebApp]],
@@ -12,6 +19,8 @@ you can also use the [[Concepts/Azure CLI\|Azure CLI]] with one do it all comman
 
 > [!example] 
 > az webapp up --location xxx --name xxx
+
+For locations: [[Concepts/Azure Location\|Azure Location]]
 
 > [!attention] 
 > This will create a lot of things with default settings, like resource groups and app service plan
