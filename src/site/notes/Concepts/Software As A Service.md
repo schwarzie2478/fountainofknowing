@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["concept/SRE/cloud","concept/SRE"],"aliases":["SAAS"],"permalink":"/concepts/software-as-a-service/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["concept/SRE/cloud","concept/SRE"],"aliases":["SAAS"],"creation_date":"2024-05-02 13:05","permalink":"/concepts/software-as-a-service/","dgPassFrontmatter":true}
 ---
 
 Example: SAP,...
