@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"Regions covered by Azure datacenters locally","aliases":["Azure Region"],"permalink":"/concepts/azure-location/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"Regions covered by Azure datacenters locally","aliases":["Azure Region"],"creation_date":"2024-05-02 22:00","permalink":"/concepts/azure-location/","dgPassFrontmatter":true}
 ---
 
 
@@ -14,7 +14,7 @@ az account list-locations -o table
 Get-AzLocation | select Location
 ```
 
-[[Concepts/Azure Resource Provider\|Azure Resource Provider]] Namespace : Microsoft.Storage
+[[Concepts/Azure Resource Provider\|Azure Resource Provider]]
 
 Output: [[Concepts/Azure Location Example Listing\|Azure Location Example Listing]]
 
