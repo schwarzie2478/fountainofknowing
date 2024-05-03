@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["best-practices","concept/SRE/cloud/azure"],"ms-learn-url":"https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/reliable-web-app/dotnet/plan-implementation","permalink":"/concepts/reliable-web-app-pattern/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["best-practices","concept/SRE/cloud/azure"],"ms-learn-url":"https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/reliable-web-app/dotnet/plan-implementation","creation_date":"2024-04-29 17:47","permalink":"/concepts/reliable-web-app-pattern/","dgPassFrontmatter":true}
 ---
 
 | Reliable Web App pattern principles                                                                                                                                                                                       | Implementation techniques                                                                                                                                                                                                                                                    |
