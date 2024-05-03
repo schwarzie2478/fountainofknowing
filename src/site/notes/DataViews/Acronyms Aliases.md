@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["landingpage"],"permalink":"/data-views/acronyms-aliases/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["landingpage"],"creation_date":"2024-04-26 19:09","permalink":"/data-views/acronyms-aliases/","dgPassFrontmatter":true}
 ---
 
 | Source                                                                                                                                   | aliases                        |
@@ -20,6 +20,7 @@
 | [[Concepts/Durable Task Framework\|Durable Task Framework]]                                                                           | <ul><li>DTFx</li></ul>         |
 | [[Concepts/Geo-Zone Redundant Storage\|Geo-Zone Redundant Storage]]                                                                   | <ul><li>GZRS</li></ul>         |
 | [[Concepts/Hyper Converged Infrastructure\|Hyper Converged Infrastructure]]                                                           | <ul><li>HCI</li></ul>          |
+| [[Concepts/HTTP Strict Transport Security\|HTTP Strict Transport Security]]                                                           | <ul><li>HSTS</li></ul>         |
 | [[Concepts/Infrastructure As Code\|Infrastructure As Code]]                                                                           | <ul><li>IAC</li></ul>          |
 | [[Concepts/Microsoft Authentication Library\|Microsoft Authentication Library]]                                                       | <ul><li>MSAL</li></ul>         |
 | [[Concepts/Platform As A Service\|Platform As A Service]]                                                                             | <ul><li>PAAS</li></ul>         |
