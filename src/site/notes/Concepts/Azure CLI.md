@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"ms-learn-url":"(https://learn.microsoft.com/en-us/cli/azure/)","tags":["concept/SRE/cloud/azure","tool"],"definition":"Azure commanline tool to manage Azure resources","aliases":["az"],"permalink":"/concepts/azure-cli/","dgPassFrontmatter":true}
+{"dg-publish":true,"ms-learn-url":"(https://learn.microsoft.com/en-us/cli/azure/)","tags":["concept/SRE/cloud/azure","tool"],"definition":"Azure commanline tool to manage Azure resources","aliases":["az"],"creation_date":"2024-05-02 22:00","permalink":"/concepts/azure-cli/","dgPassFrontmatter":true}
 ---
 
 
