@@ -1,32 +1,27 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/start/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"AutoNoteMover":"disable","creation_date":"2024-05-02 18:40","permalink":"/start/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
 ## Welcome to my knowledge vault!
 
-
-Certification AZ-204: [[Concepts/Study guide AZ-204\|Study guide AZ-204]]
-Preparation: [[Concepts/KSS Open-Telemetry\|KSS Open-Telemetry]] 
-
-Concepts:
-- [[Concepts/Stock Keeping Unit\|Stock Keeping Unit]]
-- [[Concepts/Failure Mode and Effects Analysis\|Failure Mode and Effects Analysis]]
-- [[Concepts/Executive Support System\|Executive Support System]]
-- [[Concepts/Executive Information System\|Executive Information System]]
-- [[Concepts/Decision Support System\|Decision Support System]]
-- [[Concepts/Change Management\|Change Management]]
-- [[Concepts/ADKAR\|ADKAR]]
-- [[Concepts/Software Engineering Patterns\|Software Engineering Patterns]]
-- [[Concepts/Study guide AZ-204\|Study guide AZ-204]]
-- [[Concepts/Cloud Engineering Patterns\|Cloud Engineering Patterns]]
+Pinned:
+- [[Study/KSS Open-Telemetry\|KSS Open-Telemetry]]
+- [[Study/AZ-204 Lab 01 Notes\|AZ-204 Lab 01 Notes]]
+- [[Study/AZ-204 introduction-to-azure-app-service\|AZ-204 introduction-to-azure-app-service]]
+- [[Study/Study guide AZ-204\|Study guide AZ-204]]
 
 { .block-language-dataview}
-
-Other:
-- [[DataViews/Acronyms Aliases\|Acronyms Aliases]]
-- [[DataViews/Glossary\|Glossary]]
+Landing Pages:
+- [[DataViews/Unsorted Notes\|Unsorted Notes]]
 - [[DataViews/Learn Reference\|Learn Reference]]
+- [[DataViews/Glossary\|Glossary]]
+- [[DataViews/Acronyms Aliases\|Acronyms Aliases]]
+- [[Concepts/Software Engineering Patterns\|Software Engineering Patterns]]
+- [[Concepts/General Concepts\|General Concepts]]
+- [[Concepts/Cloud Engineering Patterns\|Cloud Engineering Patterns]]
+- [[Code/Testing in .NET\|Testing in .NET]]
+- [[Study/Study guide AZ-204\|Study guide AZ-204]]
 
 { .block-language-dataview}
 
