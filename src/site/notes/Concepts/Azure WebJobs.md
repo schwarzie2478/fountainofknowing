@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"ms-learn-url":"https://learn.microsoft.com/en-us/azure/architecture/best-practices/background-jobs#azure-web-apps-and-webjobs","permalink":"/concepts/azure-web-jobs/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"ms-learn-url":"https://learn.microsoft.com/en-us/azure/architecture/best-practices/background-jobs#azure-web-apps-and-webjobs","creation_date":"2024-05-02 22:00","permalink":"/concepts/azure-web-jobs/","dgPassFrontmatter":true}
 ---
 
 
