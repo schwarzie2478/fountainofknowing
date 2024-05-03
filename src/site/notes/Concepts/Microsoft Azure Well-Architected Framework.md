@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["concept/SRE/cloud/azure","best-practices","concept/SRE/cloud","concept/SRE/cloud/azure"],"ms-learn-url":"https://learn.microsoft.com/en-us/azure/well-architected","permalink":"/concepts/microsoft-azure-well-architected-framework/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["concept/SRE/cloud/azure","best-practices","concept/SRE/cloud","concept/SRE/cloud/azure"],"ms-learn-url":"https://learn.microsoft.com/en-us/azure/well-architected","creation_date":"2024-05-02 18:40","permalink":"/concepts/microsoft-azure-well-architected-framework/","dgPassFrontmatter":true}
 ---
 
 ## Pillars
