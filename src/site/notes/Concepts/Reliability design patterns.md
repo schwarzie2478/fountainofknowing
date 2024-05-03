@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"tags":["concept/SRE","review"],"ms-learn-url":"https://learn.microsoft.com/en-us/azure/well-architected/reliability/principles","permalink":"/concepts/reliability-design-patterns/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["review","concept/SRE/cloud/azure"],"ms-learn-url":"https://learn.microsoft.com/en-us/azure/well-architected/reliability/principles","creation_date":"2024-05-02 11:46","permalink":"/concepts/reliability-design-patterns/","dgPassFrontmatter":true}
 ---
+
+[[Concepts/Reliability\|Reliability]]
 
 ## [Design for business requirements](https://learn.microsoft.com/en-us/azure/well-architected/reliability/principles#design-for-business-requirements)
 * Quantify Success by setting targets of indicator on individual components
