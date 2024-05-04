@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"tags":["tool/az","tool/powershell/az","tool/chrome"],"creation_date":"2024-05-03 16:18","permalink":"/tools/azure-login-fails-on-redirect/","dgPassFrontmatter":true}
+{"status":"tree","dg-publish":true,"tags":["tool/az","tool/powershell/az","tool/chrome"],"creation_date":"2024-05-03 16:18","permalink":"/tools/azure-login-fails-on-redirect/","dgPassFrontmatter":true}
 ---
 
 
-While working with [[Concepts/Azure CLI\|az]] or [[Concepts/AZ Powershell Module\|powershell]], suddenly I got an login error.
+While working with [[tools/Azure CLI\|az]] or [[Concepts/AZ Powershell Module\|powershell]], suddenly I got an login error.
 
 After the login in the browser ( Chrome and Edge) the browser couldn't redirect to http://localhost:8400
 
