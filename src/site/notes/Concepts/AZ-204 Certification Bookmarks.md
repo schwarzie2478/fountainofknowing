@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["AZ-204","concept/SRE/cloud/azure"],"creation_date":"2024-05-02 22:00","permalink":"/concepts/az-204-certification-bookmarks/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"tags":["AZ-204","concept/SRE/cloud/azure"],"creation_date":"2024-05-02 22:00","permalink":"/concepts/az-204-certification-bookmarks/","dgPassFrontmatter":true}
 ---
 
 
