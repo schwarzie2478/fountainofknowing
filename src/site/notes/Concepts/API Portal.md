@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"definition":"Dashboard to monitor your API's in your API Gateway","tags":["concept/SRE/cloud"],"creation_date":"2024-05-02 17:03","permalink":"/concepts/api-portal/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"definition":"Dashboard to monitor your API's in your API Gateway","tags":["concept/SRE/cloud"],"creation_date":"2024-05-02 17:03","permalink":"/concepts/api-portal/","dgPassFrontmatter":true}
 ---
 
