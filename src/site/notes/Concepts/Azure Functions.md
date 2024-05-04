@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"tags":["concept/SRE/cloud/azure","review"],"ms-learn-url":"https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview?pivots=programming-language-csharp","definition":"Azure Functions is a serverless solution that allows you to write less code, maintain less infrastructure, and save on costs","creation_date":"2024-05-02 18:40","permalink":"/concepts/azure-functions/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"tags":["concept/SRE/cloud/azure","review"],"ms-learn-url":"https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview?pivots=programming-language-csharp","definition":"Azure Functions is a serverless solution that allows you to write less code, maintain less infrastructure, and save on costs","creation_date":"2024-05-02 18:40","permalink":"/concepts/azure-functions/","dgPassFrontmatter":true}
 ---
 
 Code: [[Concepts/Azure Function Scenarios\|Azure Function Scenarios]]
-
-
+Deployment: [[Concepts/Azure Functions Deployement\|Azure Functions Deployement]]
 ## Hosting Plans
 
 Reference: [MS Learn](https://learn.microsoft.com/en-us/azure/azure-functions/dedicated-plan)
@@ -12,6 +11,16 @@ Reference: [MS Learn](https://learn.microsoft.com/en-us/azure/azure-functions/de
 
 > [!important] 
 > Free and Shared tier App Service plans aren't supported by Azure Functions. For a lower-cost option hosting your function executions, you should instead consider the [Consumption plan](https://learn.microsoft.com/en-us/azure/azure-functions/consumption-plan), where you are billed based on function executions.
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/concepts/app-service-auto-scaling/#580ed5" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+> [!caution]  
+> Automatic Scaling is disabled when App Service web apps and Azure Function apps are in the same App Service Plan.
+
+</div></div>
 
 ### App Service Hosting Plan
 #### Always On
