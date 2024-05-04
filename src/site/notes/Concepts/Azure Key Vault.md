@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"Safeguard cryptographic keys and other secrets used by cloud apps and services.","ms-learn-url":"https://azure.microsoft.com/en-us/products/key-vault","creation_date":"2024-05-02 22:00","permalink":"/concepts/azure-key-vault/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"Safeguard cryptographic keys and other secrets used by cloud apps and services.","ms-learn-url":"https://azure.microsoft.com/en-us/products/key-vault","creation_date":"2024-05-02 22:00","permalink":"/concepts/azure-key-vault/","dgPassFrontmatter":true}
 ---
 
 
