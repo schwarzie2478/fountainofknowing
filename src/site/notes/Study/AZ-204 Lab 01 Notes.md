@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["AZ-204","study","pinned"],"creation_date":"2024-04-25 11:22","permalink":"/study/az-204-lab-01-notes/","dgPassFrontmatter":true}
+{"status":["planted"],"dg-publish":true,"tags":["AZ-204","study","pinned"],"creation_date":"2024-04-25 11:22","permalink":"/study/az-204-lab-01-notes/","dgPassFrontmatter":true}
 ---
 
 
@@ -13,4 +13,4 @@ Changes from Lab
 * AppSettings are not under Configuration but under Environment variables
 
 
-Back to [[Study/Study guide AZ-204\|Study guide AZ-204]]
+Back to [[MOCs/Study guide AZ-204\|Study guide AZ-204]]
