@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["code/markdown"],"definition":"Page to test things for this vault","creation_date":"2024-04-30 17:48","permalink":"/code/mark-down-mermaid-class-diagram-example/","dgPassFrontmatter":true}
+{"status":"seedling","dg-publish":true,"tags":["code/markdown"],"definition":"Page to test things for this vault","creation_date":"2024-04-30 17:48","permalink":"/code/mark-down-mermaid-class-diagram-example/","dgPassFrontmatter":true}
 ---
 
 ```mermaid
