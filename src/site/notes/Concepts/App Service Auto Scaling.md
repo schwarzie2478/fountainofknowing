@@ -1,11 +1,16 @@
 ---
-{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"creation_date":"2024-05-03 18:30","definition":"Automatic scaling is a new scale-out option that automatically handles scaling decisions for your web apps and App Service Plans.","ms-learn-url":"https://learn.microsoft.com/en-us/azure/app-service/manage-automatic-scaling?tabs=azure-portal","permalink":"/concepts/app-service-auto-scaling/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"tags":["concept/SRE/cloud/azure"],"creation_date":"2024-05-03 18:30","definition":"Automatic scaling is a new scale-out option that automatically handles scaling decisions for your web apps and App Service Plans.","ms-learn-url":"https://learn.microsoft.com/en-us/azure/app-service/manage-automatic-scaling?tabs=azure-portal","permalink":"/concepts/app-service-auto-scaling/","dgPassFrontmatter":true}
 ---
 
 
-`VIEW[==Definition==: {definition}][text(renderMarkdown)]`
+|   MetaData |                                       |
+| ---------- | ------------------------------------------ |
+| Definition | `VIEW[{definition}][text(renderMarkdown)]` |
+| Homesite   | `VIEW[{url}][text(renderMarkdown)]` |
+| MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
 
-`VIEW[==MS Learn==: {ms-learn-url}][text(renderMarkdown)]`
+
+
 
 Different from previous: [[Concepts/Azure autoscale\|Azure autoscale]].
 You'll find more on this capability in the [automatic scaling](https://learn.microsoft.com/en-us/azure/app-service/manage-automatic-scaling) article.
@@ -26,7 +31,7 @@ You enable automatic scaling for an App Service Plan and configure a range of in
 **Maximum burst** is the highest number of instances that your App Service Plan can increase to based on incoming HTTP requests.
 Premium tier -> can scale up to 30 instances
 
-With [[Concepts/Azure CLI\|az]]:
+With [[tools/Azure CLI\|az]]:
 ```shell
 az appservice plan update --name <APP_SERVICE_PLAN> --resource-group <RESOURCE_GROUP> --elastic-scale true --max-elastic-worker-count <YOUR_MAX_BURST>
 ```
@@ -37,3 +42,11 @@ az appservice plan update --name <APP_SERVICE_PLAN> --resource-group <RESOURCE_G
 ```shell
 az webapp update --resource-group <RESOURCE_GROUP> --name <APP_NAME> --minimum-elastic-instance-count <ALWAYS_READY_COUNT>
 ```
+## Does automatic scaling support [[Concepts/Azure Functions\|Azure Functions]] apps?
+
+> [!caution]  
+> Automatic Scaling is disabled when App Service web apps and Azure Function apps are in the same App Service Plan.
+{ #580ed5}
+
+
+No, you can only have Azure App Service web apps in the App Service Plan where you wish to enable automatic scaling. For Functions, it's recommended to use the [[Concepts/Azure Functions Premium plan\|Azure Functions Premium plan]] instead.
