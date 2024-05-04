@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"type":"term","definition":"Subscriptions are a unit of management, billing, and scale within Azure.","ms-learn-url":"https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/resource-org-subscriptions","creation_date":"2024-05-02 18:40","permalink":"/concepts/azure-subscription/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"tags":["concept/SRE/cloud/azure"],"type":"term","definition":"Subscriptions are a unit of management, billing, and scale within Azure.","ms-learn-url":"https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/resource-org-subscriptions","creation_date":"2024-05-02 18:40","permalink":"/concepts/azure-subscription/","dgPassFrontmatter":true}
 ---
 
 Capture subscription requirements and design target subscriptions based on critical factors, which are based on:
