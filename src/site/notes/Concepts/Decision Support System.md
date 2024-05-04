@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["DSS"],"url":"https://en.wikipedia.org/wiki/Decision_support_system","definition":"A decision support system (DSS) is an information system that supports business or organizational decision-making activities.","tags":["concept/general"],"creation_date":"2024-05-02 08:34","permalink":"/concepts/decision-support-system/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"aliases":["DSS"],"url":"https://en.wikipedia.org/wiki/Decision_support_system","definition":"A decision support system (DSS) is an information system that supports business or organizational decision-making activities.","tags":["concept/general"],"creation_date":"2024-05-02 08:34","permalink":"/concepts/decision-support-system/","dgPassFrontmatter":true}
 ---
 
 DSS components may be classified as:
