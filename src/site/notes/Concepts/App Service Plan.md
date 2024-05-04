@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Server Farm"],"tags":["concept/SRE/cloud/azure"],"definition":"An App Service plan defines a set of compute resources for a web app to run.","ms-learn-url":"https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans","creation_date":"2024-05-02 18:40","permalink":"/concepts/app-service-plan/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"aliases":["Server Farm"],"tags":["concept/SRE/cloud/azure"],"definition":"An App Service plan defines a set of compute resources for a web app to run.","ms-learn-url":"https://learn.microsoft.com/en-us/azure/app-service/overview-hosting-plans","creation_date":"2024-05-02 18:40","permalink":"/concepts/app-service-plan/","dgPassFrontmatter":true}
 ---
 
 
