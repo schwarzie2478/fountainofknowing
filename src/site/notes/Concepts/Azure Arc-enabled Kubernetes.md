@@ -1,0 +1,13 @@
+---
+{"status":"planted","dg-publish":true,"tags":["concept/SRE/cloud/azure"],"creation_date":"2024-05-03 23:44","definition":"Azure Arc-enabled Kubernetes allows you to attach Kubernetes clusters running anywhere so that you can manage and configure them in Azure.","ms-learn-url":"https://learn.microsoft.com/en-us/azure/azure-arc/kubernetes/overview","url":"undefined","permalink":"/concepts/azure-arc-enabled-kubernetes/","dgPassFrontmatter":true}
+---
+
+| MetaData   |                                              |
+| ---------- | -------------------------------------------- |
+| Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
+| Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
+| MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
+
+By managing all of your [[Concepts/Kubernetes\|Kubernetes]] resources in a single control plane, you can enable a more consistent development and operation experience to run cloud-native apps anywhere and on any [[Concepts/Kubernetes\|Kubernetes]] platform.
+
+Enabled by [[Concepts/Azure Arc\|Azure Arc]]
