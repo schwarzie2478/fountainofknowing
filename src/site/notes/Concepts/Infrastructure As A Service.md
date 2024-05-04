@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["concept/SRE"],"aliases":["IAAS"],"creation_date":"2024-05-02 22:00","permalink":"/concepts/infrastructure-as-a-service/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"tags":["concept/SRE"],"aliases":["IAAS"],"creation_date":"2024-05-02 22:00","permalink":"/concepts/infrastructure-as-a-service/","dgPassFrontmatter":true}
 ---
 
 
