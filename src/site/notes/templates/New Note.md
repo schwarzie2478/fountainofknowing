@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"tags":["unsorted"],"creation_date":"<% tp.file.creation_date() %>","defintion":"undefined","ms-learn-url":"undefined","permalink":"/templates/new-note/","dgPassFrontmatter":true}
+{"status":"seedling","dg-publish":true,"tags":["unsorted"],"creation_date":"<% tp.file.creation_date() %>","definition":"undefined","ms-learn-url":"undefined","url":"undefined","permalink":"/templates/new-note/","dgPassFrontmatter":true}
 ---
 
 
-`VIEW[==Definition==: {definition}][text(renderMarkdown)]`
-
-`VIEW[==MS Learn==: {ms-learn-url}][text(renderMarkdown)]`
-
+| MetaData   |                                              |
+| ---------- | -------------------------------------------- |
+| Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
+| Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
+| MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
