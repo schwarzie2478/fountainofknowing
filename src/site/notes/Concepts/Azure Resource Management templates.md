@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"type":"term","creation_date":"2024-05-02 22:00","permalink":"/concepts/azure-resource-management-templates/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"tags":["concept/SRE/cloud/azure"],"type":"term","creation_date":"2024-05-02 22:00","permalink":"/concepts/azure-resource-management-templates/","dgPassFrontmatter":true}
 ---
 
 
