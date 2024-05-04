@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["APIOps"],"tags":["concept/SRE/cloud"],"definition":"APIOps denotes a process that prepares API definitions for deployment. This process is supposed to ensure that the definitions are valid and tested on the base of the API guideline.","ms-learn-url":"https://azure.github.io/apiops/apiops/0-labPrerequisites/","github-url":"https://github.com/Azure/apiops","creation_date":"2024-05-02 16:34","permalink":"/concepts/application-interface-operations/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"aliases":["APIOps"],"tags":["concept/SRE/cloud"],"definition":"APIOps denotes a process that prepares API definitions for deployment. This process is supposed to ensure that the definitions are valid and tested on the base of the API guideline.","ms-learn-url":"https://azure.github.io/apiops/apiops/0-labPrerequisites/","github-url":"https://github.com/Azure/apiops","creation_date":"2024-05-02 16:34","permalink":"/concepts/application-interface-operations/","dgPassFrontmatter":true}
 ---
 
 Additional definition: APIOps creates a standardized process and collaborative culture to accelerate how your organization creates APIs and maintains them throughout their life cycle.
@@ -15,9 +15,9 @@ APIOps applies the concepts of [[Concepts/GitOps\|GitOps]] and [[Concepts/DevOps
 
 ![ApiOps.gif](/img/user/images/ApiOps.gif)
 References:
-- [[Concepts/Insomnia\|Insomnia]]
-- [[Concepts/Postman\|Postman]]
-- [[Concepts/StopLight\|StopLight]]
+- [[tools/Insomnia\|Insomnia]]
+- [[tools/Postman\|Postman]]
+- [[tools/StopLight\|StopLight]]
 - [[Concepts/Source Control\|Source Control]]
 - [[Concepts/Pull Requests\|Pull Requests]]
 - [[Concepts/API Gateway\|API Gateway]]
@@ -26,4 +26,4 @@ References:
 - [[Concepts/Swagger\|Swagger]]
 
 
-Part of [[Concepts/Cloud Engineering Patterns\|Cloud Engineering Patterns]]
+Part of [[MOCs/Cloud Engineering Patterns\|Cloud Engineering Patterns]]
