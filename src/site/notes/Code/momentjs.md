@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["unsorted","code/javascript"],"creation_date":"2024-05-03 20:12","aliases":["moment"],"url":"https://momentjs.com/","permalink":"/code/momentjs/","dgPassFrontmatter":true}
+{"status":"seedling","dg-publish":true,"tags":["code/javascript"],"creation_date":"2024-05-03 20:12","aliases":["moment"],"url":"https://momentjs.com/","permalink":"/code/momentjs/","dgPassFrontmatter":true}
 ---
 
 [[Code/CommonJS\|CommonJS]] module for datetime
