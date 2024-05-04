@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"type":"term","definition":"Azure Powershell","ms-learn-url":"https://learn.microsoft.com/en-us/powershell/azure/context-persistence?view=azps-11.5.0","creation_date":"2024-05-02 22:00","permalink":"/concepts/az-powershell-module/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"tags":["concept/SRE/cloud/azure"],"type":"term","definition":"Azure Powershell","ms-learn-url":"https://learn.microsoft.com/en-us/powershell/azure/context-persistence?view=azps-11.5.0","creation_date":"2024-05-02 22:00","permalink":"/concepts/az-powershell-module/","dgPassFrontmatter":true}
 ---
 
 
