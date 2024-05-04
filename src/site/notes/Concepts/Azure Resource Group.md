@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"Resource groups are logical containers where you can deploy and manage Azure resources like virtual machines, web apps, databases, and storage accounts.","creation_date":"2024-05-02 22:00","permalink":"/concepts/azure-resource-group/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"Resource groups are logical containers where you can deploy and manage Azure resources like virtual machines, web apps, databases, and storage accounts.","creation_date":"2024-05-02 22:00","permalink":"/concepts/azure-resource-group/","dgPassFrontmatter":true}
 ---
 
 
