@@ -1,24 +1,33 @@
 ---
-{"dg-publish":true,"ms-learn-url":"(https://learn.microsoft.com/en-us/azure/app-service/)","definition":"Azure App Service is an HTTP-based service for hosting web applications, REST APIs, and mobile back ends. You can develop in your favorite programming language or framework.","tags":["concept/SRE/cloud/azure"],"creation_date":"2024-05-02 22:00","permalink":"/concepts/azure-app-service/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"ms-learn-url":"(https://learn.microsoft.com/en-us/azure/app-service/)","definition":"Azure App Service is an HTTP-based service for hosting web applications, REST APIs, and mobile back ends. You can develop in your favorite programming language or framework.","tags":["concept/SRE/cloud/azure"],"creation_date":"2024-05-02 22:00","permalink":"/concepts/azure-app-service/","dgPassFrontmatter":true}
 ---
 
-
+| MetaData   |                                              |
+| ---------- | -------------------------------------------- |
+| Definition | `VIEW[{definition}][text(renderMarkdown)]`   |
+| Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
+| MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
 - Built-in [[Concepts/App Service Auto Scaling\|Auto Scale Support]]
 - [[Concepts/Continuous Integration\|CI]]/[[Concepts/Continuous Deployment\|CD]] Support
-- [[Azure Deployment Slots\|Azure Deployment Slots]]
+- [[Concepts/Azure Deployment Slots\|Azure Deployment Slots]]
 - [[Concepts/Azure App Service on Linux\|Azure App Service on Linux]] ( [[Concepts/Azure App Service on Linux#Limitations\|with limitation]])
 
 
 
-Used to deploy  a [[Concepts/Azure WebApp\|Azure WebApp]],
+Used to deploy  a [[Concepts/Azure WebApp\|Azure WebApp]] and/or [[Concepts/Azure Functions\|Azure Functions]]. ( not always possible together!)
 You need a  [[Concepts/Azure Subscription\|subscription]], [[Concepts/Azure Resource Group\|resource group]] and an [[Concepts/App Service Plan\|plan]].
 ### Fast Creation Option
 
 Instead of going through the wizard to create all the difference things
-you can also use the [[Concepts/Azure CLI\|Azure CLI]] with one do it all command
+you can also use the [[tools/Azure CLI\|Azure CLI]] with one do it all command
 
 > [!example] 
 > az webapp up --location xxx --name xxx
+
+The opposite command ( not sure if this works with only location, probably needs resourcegroup)
+
+> [!example] 
+> az webapp delete --name xxx --location xxx
 
 For locations: [[Concepts/Azure Location\|Azure Location]]
 
@@ -33,11 +42,6 @@ Docker
 Static Web App
 
 Attention: You cannot deploy an pre-compiled exe binary to an App Service
-
-### [[Concepts/App Service Plan\|App Service Plan]]
-
-
-
 
 ### Recommended Service
 
