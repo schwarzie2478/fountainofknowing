@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"An App Service Environment is an Azure App Service feature that provides a fully isolated and dedicated environment for running App Service apps securely at high scale.","ms-learn-url":"https://learn.microsoft.com/en-us/azure/app-service/environment/overview","creation_date":"2024-05-02 22:00","permalink":"/concepts/azure-app-service-environment/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"tags":["concept/SRE/cloud/azure"],"definition":"An App Service Environment is an Azure App Service feature that provides a fully isolated and dedicated environment for running App Service apps securely at high scale.","ms-learn-url":"https://learn.microsoft.com/en-us/azure/app-service/environment/overview","creation_date":"2024-05-02 22:00","permalink":"/concepts/azure-app-service-environment/","dgPassFrontmatter":true}
 ---
 
 
