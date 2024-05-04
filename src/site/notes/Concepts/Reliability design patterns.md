@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["review","concept/SRE/cloud/azure"],"ms-learn-url":"https://learn.microsoft.com/en-us/azure/well-architected/reliability/principles","creation_date":"2024-05-02 11:46","permalink":"/concepts/reliability-design-patterns/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"tags":["review","concept/SRE/cloud/azure"],"ms-learn-url":"https://learn.microsoft.com/en-us/azure/well-architected/reliability/principles","creation_date":"2024-05-02 11:46","permalink":"/concepts/reliability-design-patterns/","dgPassFrontmatter":true}
 ---
 
 [[Concepts/Reliability\|Reliability]]
@@ -26,4 +26,4 @@
 * **Simulate failures** and run tests in production and pre-production environments. ([[Concepts/Chaos Engineering\|Chaos Engineering]])
 
 Part of [[Concepts/Microsoft Azure Well-Architected Framework#Pillars\|Microsoft Azure Well-Architected Framework]]
-Part of [[Concepts/Software Engineering Patterns\|Software Engineering Patterns]]
+Part of [[MOCs/Software Engineering Patterns\|Software Engineering Patterns]]
