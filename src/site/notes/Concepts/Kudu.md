@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"ms-learn-url":"(https://learn.microsoft.com/en-us/azure/app-service/resources-kudu)","github-url":"https://github.com/projectkudu/kudu/wiki","tags":["concept/SRE/cloud/azure"],"creation_date":"2024-05-02 18:40","permalink":"/concepts/kudu/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"ms-learn-url":"(https://learn.microsoft.com/en-us/azure/app-service/resources-kudu)","github-url":"https://github.com/projectkudu/kudu/wiki","tags":["concept/SRE/cloud/azure"],"creation_date":"2024-05-02 18:40","permalink":"/concepts/kudu/","dgPassFrontmatter":true}
 ---
 
 Application diagnostic and configuration service used by [[Concepts/Azure App Service\|Azure App Service]] 
