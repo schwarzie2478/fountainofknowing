@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["concept/SRE/cloud/azure"],"creation_date":"2024-05-03 16:56","permalink":"/concepts/azure-resource-provider-example-listing/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"tags":["concept/SRE/cloud/azure"],"creation_date":"2024-05-03 16:56","permalink":"/concepts/azure-resource-provider-example-listing/","dgPassFrontmatter":true}
 ---
 
 ```powershell
