@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["review","study","AZ-204"],"definition":"How to publish Obsidian vault to an azure subscription.","creation_date":"2024-05-02 18:40","permalink":"/study/publish-obsidian-to-azure/","dgPassFrontmatter":true}
+{"status":"seedling","dg-publish":true,"tags":["review","study","AZ-204"],"definition":"How to publish Obsidian vault to an azure subscription.","creation_date":"2024-05-02 18:40","permalink":"/study/publish-obsidian-to-azure/","dgPassFrontmatter":true}
 ---
 
 Goals:
