@@ -1,5 +1,5 @@
 ---
-{"status":["planted"],"dg-publish":true,"tags":["AZ-204","study","pinned"],"creation_date":"2024-04-25 11:22","permalink":"/study/az-204-lab-01-notes/","dgPassFrontmatter":true}
+{"status":["planted"],"dg-publish":true,"tags":["pinned","study/AZ-204"],"creation_date":"2024-04-25 11:22","permalink":"/study/az-204-lab-01-notes/","dgPassFrontmatter":true}
 ---
 
 
