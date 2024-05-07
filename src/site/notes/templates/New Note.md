@@ -1,5 +1,5 @@
 ---
-{"status":"seedling","dg-publish":true,"tags":["unsorted"],"creation_date":"<% tp.file.creation_date() %>","definition":"undefined","ms-learn-url":"undefined","url":"undefined","permalink":"/templates/new-note/","dgPassFrontmatter":true}
+{"status":"seedling","dg-publish":true,"tags":["unsorted"],"creation_date":"<% tp.file.creation_date() %>","definition":"undefined","ms-learn-url":"undefined","url":"undefined","aliases":null,"permalink":"/templates/new-note/","dgPassFrontmatter":true}
 ---
 
 
