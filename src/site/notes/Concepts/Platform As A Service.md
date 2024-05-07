@@ -4,4 +4,4 @@
 
 Different of  [[Concepts/Infrastructure As A Service\|IAAS]] and [[Concepts/Software As A Service\|SAAS]]
 
-Examples :  [[Concepts/Azure App Service\|Azure App Service]]
+Examples :  [[Concepts/Azure App Service\|Concepts/Azure App Service]]
