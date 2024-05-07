@@ -1,5 +1,5 @@
 ---
-{"status":"seedling","dg-publish":true,"tags":["code/dotNET/ai"],"creation_date":"2024-05-03 19:47","github-url":"https://github.com/microsoft/semantic-kernel","ms-learn-url":"https://learn.microsoft.com/en-us/semantic-kernel/overview/","permalink":"/code/microsoft-semantic-kernel/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"tags":["code/dotNET/ai"],"creation_date":"2024-05-03 19:47","github-url":"https://github.com/microsoft/semantic-kernel","ms-learn-url":"https://learn.microsoft.com/en-us/semantic-kernel/overview/","permalink":"/code/microsoft-semantic-kernel/","dgPassFrontmatter":true}
 ---
 
 
