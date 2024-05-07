@@ -1,24 +1,26 @@
 ---
-{"status":["planted"],"dg-publish":true,"tags":["AZ-204","landingpage","study","pinned"],"definition":"Study guide for AZ-204","ms-learn-url":"https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-204","creation_date":"2024-05-02 22:00","permalink":"/mo-cs/study-guide-az-204/","dgPassFrontmatter":true}
+{"status":["planted"],"dg-publish":true,"tags":["landingpage","pinned","study/AZ-204"],"definition":"Study guide for AZ-204","ms-learn-url":"https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-204","creation_date":"2024-05-02 22:00","permalink":"/mo-cs/study-guide-az-204/","dgPassFrontmatter":true}
 ---
 
 
-- [ ] Explain how Azure App Service manages authentication and authorization.
-- [ ] Identify methods to control inbound and outbound traffic to your web app.
-- [ ] Deploy an app to App Service using [[tools/Azure CLI\|Azure CLI]] commands.
 - [ ] Do Udemy Labs 📅 2024-06-01
+- [ ] `VIEW[{definition}][text(renderMarkdown)]` Goals:
+- [ ] Explain functional differences between [[Concepts/Azure Functions\|Azure Functions]], [[Concepts/Azure Logic Apps\|Azure Logic Apps]], and [[Concepts/Azure App Service WebJobs\|Azure App Service WebJobs]]
+- [ ] Describe [[Azure Functions hosting plan options\|Azure Functions hosting plan options]]
+- [ ] Describe how Azure Functions scale to meet business needs
 
 { .block-language-dataview}
 
-Registered for Certificate  [Azure Developer Aspirant](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification)
+Registered for Certificate  [Azure Developer Aspirant](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification) [[Study/AZ-204\|AZ-204]]
 Udemy Course [[Study/Udemy AZ-204 Developing Solutions For Microsoft Azure - Oktober 2023\|Udemy AZ-204 Developing Solutions For Microsoft Azure - Oktober 2023]]
 
 
 Microsoft Training: [Startpoint](https://learn.microsoft.com/en-us/training/paths/create-azure-app-service-web-apps/)
-[[Study/AZ-204 introduction-to-azure-app-service\|AZ-204 introduction-to-azure-app-service]]
+[[Study/Microsoft Course for AZ-204\|Microsoft Course for AZ-204]]
+
 
 Microsoft Labs:
-[[Study/Azure AZ-204 Lab 01\|Azure AZ-204 Lab 01]]
+[[Study/AZ-204 Lab 01 Notes\|AZ-204 Lab 01 Notes]]
 
 ### [Prepare for the exam](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification#two-ways-to-prepare)
 
@@ -26,13 +28,13 @@ Microsoft Labs:
 
 You should be proficient in Azure:
 
--  [[Concepts/Azure SDK for .NET\|SDK]]
-- [[unsorted/Azure Data storage options\|Data storage options]]
-- [[unsorted/Azure Data connections\|Data connections]]
-- [[unsorted/Azure APIs\|APIs]]
-- [[unsorted/Azure App authentication and authorisation\|App authentication and authorisation]]
-- [[unsorted/Azure Compute and container deployment\|Compute and container deployment]]
-- [[unsorted/Azure Debugging\|Debugging]]
+-  [[Code/Azure SDK for .NET\|SDK]]
+- [[Study/Azure Data storage options\|Data storage options]]
+- [[Study/Azure Data connections\|Data connections]]
+- [[Study/Azure APIs\|APIs]]
+- [[Study/Azure App authentication and authorisation\|App authentication and authorisation]]
+- [[Study/Azure Compute and container deployment\|Compute and container deployment]]
+- [[Concepts/Azure Debugging\|Debugging]]
 ### Skills measured
 
 - Develop Azure compute solutions
