@@ -5,3 +5,6 @@
 Formerly known as [[Concepts/Swagger\|Swagger]]
 
 Generator https://openapi-generator.tech/
+
+[[Concepts/OpenAPI specifics\|OpenAPI specifics]]
+[[Concepts/OpenAPI Best Practices\|OpenAPI Best Practices]]
