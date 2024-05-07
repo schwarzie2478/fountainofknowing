@@ -2,7 +2,9 @@
 {"status":"planted","dg-publish":true,"tags":["tool/obsidian"],"creation_date":"2024-05-02 14:33","permalink":"/tools/obsidian-learning/","dgPassFrontmatter":true}
 ---
 
-## self publish
+My work inside [[tools/Obsidian\|Obsidian]].
+- [x] use Templater for different new files 🔽
+- [x] self publish 🔽 ✅ 2024-05-04
 	https://github.com/oleeskild/Obsidian-digital-garden
 ### Examples in the wild
 
