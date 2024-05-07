@@ -3,7 +3,7 @@
 ---
 
 
-Related to the Isolated Tiers of the [[Concepts/App Service Plan\|App Service Plan]]
+Related to the Isolated Tiers of the [[Concepts/Azure App Service Plan\|Azure App Service Plan]]
 App Service Environment v3 is the latest generation offering used with Isolated v2 plans.
 
 > [!warning] 
