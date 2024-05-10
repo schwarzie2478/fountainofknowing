@@ -11,4 +11,4 @@
 
 Part of [[Concepts/cryptography\|cryptography]]
 
-In a **public-key encryption** system, anyone with a [[Concepts/public key\|public key]] can [encrypt](https://en.wikipedia.org/wiki/Encryption "Encryption") a message, yielding a **[[ciphertext\|ciphertext]]**, but only those who know the corresponding [[Concepts/private key\|private key]] can decrypt the ciphertext to obtain the original message.
+In a **public-key encryption** system, anyone with a [[Concepts/public key\|public key]] can [encrypt](https://en.wikipedia.org/wiki/Encryption "Encryption") a message, yielding a **[[Concepts/ciphertext\|ciphertext]]**, but only those who know the corresponding [[Concepts/private key\|private key]] can decrypt the ciphertext to obtain the original message.
