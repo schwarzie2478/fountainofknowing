@@ -1,5 +1,5 @@
 ---
-{"status":"seedling","dg-publish":true,"tags":["concept/SRE/cloud/azure"],"creation_date":"2024-05-07 12:20","definition":"Azure Logic Apps is a serverless workflow integration platform.","ms-learn-url":"https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview","url":"undefined","aliases":[],"permalink":"/concepts/azure-logic-apps/","dgPassFrontmatter":true}
+{"status":"planted","dg-publish":true,"tags":["concept/SRE/cloud/azure"],"creation_date":"2024-05-07 12:20","definition":"Azure Logic Apps is a serverless workflow integration platform.","ms-learn-url":"https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview","url":"undefined","aliases":[],"permalink":"/concepts/azure-logic-apps/","dgPassFrontmatter":true}
 ---
 
 
@@ -13,7 +13,7 @@ An orchestration is a collection of functions or steps, called ==actions== in Lo
 
 For Logic Apps, you create orchestrations by using a GUI or editing configuration files.
 
- [[Power Automate\|Power Automate]] in [[unsorted/Office 365\|Office 365]] is built on the Azure Logic Apps platform.
+ [[unsorted/Power Automate\|Power Automate]] in [[Concepts/Office 365\|Office 365]] is built on the Azure Logic Apps platform.
 
 ## Differences between Power Automate and Logic Apps
 
