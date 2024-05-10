@@ -13,9 +13,9 @@ General Concepts
 - [[Concepts/Stock Keeping Unit\|Stock Keeping Unit]]
 - [[Concepts/Failure Mode and Effects Analysis\|Failure Mode and Effects Analysis]]
 - [[Concepts/Executive Support System\|Executive Support System]]
+- [[Concepts/Executive Information System\|Executive Information System]]
 - [[Concepts/Decision Support System\|Decision Support System]]
 - [[Concepts/Change Management\|Change Management]]
 - [[Concepts/ADKAR\|ADKAR]]
-- [[Concepts/Executive Information System\|Executive Information System]]
 
 { .block-language-dataview}
