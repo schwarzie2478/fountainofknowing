@@ -20,7 +20,7 @@
 - Describing Large APIs. ...
 	- Links to External Best Practices.
 
-## See also [[RESTful web API design\|RESTful web API design]]
+## See also [[unsorted/RESTful web API design\|RESTful web API design]]
 - Organize the API design around resources
 
 > [!tip]
