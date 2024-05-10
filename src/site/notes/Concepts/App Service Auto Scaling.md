@@ -153,7 +153,7 @@ The Azure portal enables you to track when autoscaling has occurred through theÂ
 	- An autoscale setting has a maximum, minimum, and default value of instances.
 - An autoscale job always reads the associated metric to scale by, checking if it has crossed the configured threshold for scale-out or scale-in.
 - All thresholds are calculated at an instance level. 
-- All autoscale successes and failures are logged to the [[unsorted/Activity Log\|Activity Log]]. You can then configure an [[unsorted/activity log alert\|activity log alert]] so that you can be notified via email, SMS, or webhooks whenever there's activity.
+- All autoscale successes and failures are logged to the [[Concepts/Activity Log\|Activity Log]]. You can then configure an [[Concepts/activity log alert\|activity log alert]] so that you can be notified via email, SMS, or webhooks whenever there's activity.
 ### Ensure the maximum and minimum values are different and have an adequate margin between them
 
 ### Choose the appropriate statistic for your diagnostics metric
