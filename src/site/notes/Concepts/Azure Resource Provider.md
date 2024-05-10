@@ -10,7 +10,7 @@ Some resource providers are registered by default. For a list of resource provid
 
 For example: 
 * [[Concepts/Microsoft.Compute\|Microsoft.Compute]]: is the provider that takes care of the virtual machine resources and app services
-* [[Microsoft.Storage\|Microsoft.Storage]]: is the provider for storage accounts and such
+* [[unsorted/Microsoft.Storage\|Microsoft.Storage]]: is the provider for storage accounts and such
 - [Microsoft.Authorization](https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftauthorization)
 - [Microsoft.PolicyInsights](https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftpolicyinsights)
 
