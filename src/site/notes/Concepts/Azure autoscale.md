@@ -3,10 +3,10 @@
 ---
 
 
-This is a feature of [[Azure Monitor\|Azure Monitor]]
+This is a feature of [[unsorted/Azure Monitor\|Azure Monitor]]
 
-[[Avalibility set\|Avalibility set]] are an older scaling feature for virtual machines.
-Recommend:  [[Azure Virtual Machine Scale set\|Azure Virtual Machine Scale set]]
+[[unsorted/Avalibility set\|Avalibility set]] are an older scaling feature for virtual machines.
+Recommend:  [[unsorted/Azure Virtual Machine Scale set\|Azure Virtual Machine Scale set]]
 
 > [!note] 
 > In addition to the Autoscale instructions, there's new, [[Concepts/App Service Auto Scaling\| auto scaling]] in Azure App Service. 
