@@ -18,6 +18,7 @@
 | [[tools/Azure Developer CLI\|Azure Developer CLI]]                                                                                | <ul><li>azd</li></ul>                                              |
 | [[Concepts/Azure Location\|Azure Location]]                                                                                       | <ul><li>Azure Region</li></ul>                                     |
 | [[Concepts/Border Gateway Protocol\|Border Gateway Protocol]]                                                                     | <ul><li>BGP</li></ul>                                              |
+| [[Concepts/data consistency over availability\|data consistency over availability]]                                               | <ul><li>CAP</li></ul>                                              |
 | [[Social/Cloud Native Computing Foundation\|Cloud Native Computing Foundation]]                                                   | <ul><li>CNCF</li></ul>                                             |
 | [[Concepts/Cross-origin resource sharing\|Cross-origin resource sharing]]                                                         | <ul><li>CORS</li></ul>                                             |
 | [[Concepts/Cloud Security Posture Management\|Cloud Security Posture Management]]                                                 | <ul><li>CSPM</li></ul>                                             |
@@ -28,7 +29,9 @@
 | [[Concepts/Data Loss Prevention\|Data Loss Prevention]]                                                                           | <ul><li>DLP</li></ul>                                              |
 | [[Code/Durable Task Framework\|Durable Task Framework]]                                                                           | <ul><li>DTFx</li></ul>                                             |
 | [[Concepts/Extended Key Usage\|Extended Key Usage]]                                                                               | <ul><li>EKU</li></ul>                                              |
+| [[Concepts/Functions-as-a-Service\|Functions-as-a-Service]]                                                                       | <ul><li>FaaS</li></ul>                                             |
 | [[Concepts/File Transfer Protocol\|File Transfer Protocol]]                                                                       | <ul><li>FTP</li></ul>                                              |
+| [[Concepts/Generally available\|Generally available]]                                                                             | <ul><li>GA</li></ul>                                               |
 | [[Concepts/Geo-Zone Redundant Storage\|Geo-Zone Redundant Storage]]                                                               | <ul><li>GZRS</li></ul>                                             |
 | [[Concepts/Hyper Converged Infrastructure\|Hyper Converged Infrastructure]]                                                       | <ul><li>HCI</li></ul>                                              |
 | [[Concepts/HTTP Strict Transport Security\|HTTP Strict Transport Security]]                                                       | <ul><li>HSTS</li></ul>                                             |
@@ -41,10 +44,12 @@
 | [[Concepts/Layer 7\|Layer 7]]                                                                                                     | <ul><li>L7</li><li>application layer</li></ul>                     |
 | [[Concepts/Service Principle\|Service Principle]]                                                                                 | <ul><li>Mananged Identity</li></ul>                                |
 | [[Concepts/Microsoft Authentication Library\|Microsoft Authentication Library]]                                                   | <ul><li>MSAL</li></ul>                                             |
+| [[Concepts/Mutual TLS\|Mutual TLS]]                                                                                               | <ul><li>mTLS</li></ul>                                             |
 | [[Concepts/Azure App Service Swap with preview\|Azure App Service Swap with preview]]                                             | <ul><li>multi-phase swap</li></ul>                                 |
 | [[Concepts/OpenAPI Descriptions\|OpenAPI Descriptions]]                                                                           | <ul><li>OAD</li></ul>                                              |
 | [[Concepts/Open Systems Interconnection Model\|Open Systems Interconnection Model]]                                               | <ul><li>OSI Model</li></ul>                                        |
 | [[Concepts/Platform As A Service\|Platform As A Service]]                                                                         | <ul><li>PAAS</li></ul>                                             |
+| [[Concepts/personal access token\|personal access token]]                                                                         | <ul><li>PAT</li></ul>                                              |
 | [[Concepts/handler mappings\|handler mappings]]                                                                                   | <ul><li>path mapping</li></ul>                                     |
 | [[Concepts/Probabilistically Bounded Staleness\|Probabilistically Bounded Staleness]]                                             | <ul><li>PBS</li></ul>                                              |
 | [[Concepts/Point-In-Time Restore\|Point-In-Time Restore]]                                                                         | <ul><li>PITR</li></ul>                                             |
@@ -60,5 +65,7 @@
 | [[Concepts/Service level objectives\|Service level objectives]]                                                                   | <ul><li>SLO</li></ul>                                              |
 | [[Concepts/Secure Socket Layer\|Secure Socket Layer]]                                                                             | <ul><li>SSL</li></ul>                                              |
 | [[Concepts/Transport Layer Security\|Transport Layer Security]]                                                                   | <ul><li>TLS</li></ul>                                              |
+| [[Concepts/WebAssembly System Interface\|WebAssembly System Interface]]                                                           | <ul><li>WASI</li></ul>                                             |
+| [[Concepts/WebAssembly\|WebAssembly]]                                                                                             | <ul><li>wasm</li></ul>                                             |
 
 { .block-language-dataview}
