@@ -189,7 +189,7 @@ distributed application runtime and I will talk about that  in the end of my pre
 > [!quote]
 > finally  using [[Concepts/Envoy\|Envoy]]  for your [[Concepts/Service Discovery\|Service Discovery]]
 
-[[Ingress\|Ingress]] and stuff like that so these components in kubernetes you can basically choose them in kubernetes if you want to use something different you can 
+[[Concepts/Ingress\|Ingress]] and stuff like that so these components in kubernetes you can basically choose them in kubernetes if you want to use something different you can 
 
 > [!quote]
 >  in  container apps you're basically stuck with these because they are used by the Microsoft teams to build our container app as that layer of abstraction 
