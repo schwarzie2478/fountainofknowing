@@ -3,6 +3,7 @@
 ---
 
 
+An account for [[Concepts/Azure Storage\|Azure Storage]]
 Move data between storage accounts
 
 [[tools/AzCopy\|AzCopy]]
