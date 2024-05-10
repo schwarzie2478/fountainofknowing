@@ -127,7 +127,7 @@ an idea about a library that is using I weaving and maybe you have used or that 
 
 property change. [[Code/fody\|fody]] so if you ever worked with any [[Concepts/Model View Viewmodel\|Model View Viewmodel]] framework like uh
 
-[[Code/Maui\|Maui]] [[Code/Xamarin\|Xamarin]] [[Code/avalonia\|avalonia]] [[Uno\|Uno]] and so on then you know that if you want to
+[[Code/Maui\|Maui]] [[Code/Xamarin\|Xamarin]] [[Code/avalonia\|avalonia]] [[Code/Uno\|Uno]] and so on then you know that if you want to
 
 bind something to the UI you need to implement I notified property change the only thing that is on this property is
 
