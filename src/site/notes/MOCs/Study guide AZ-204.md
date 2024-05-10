@@ -5,18 +5,25 @@
 
 - [ ] Do Udemy Labs 📅 2024-06-01
 - [ ] `VIEW[{definition}][text(renderMarkdown)]` Goals:
-- [ ] Explain functional differences between [[Concepts/Azure Functions\|Azure Functions]], [[Concepts/Azure Logic Apps\|Azure Logic Apps]], and [[Concepts/Azure App Service WebJobs\|Azure App Service WebJobs]]
-- [ ] Describe [[Azure Functions hosting plan options\|Azure Functions hosting plan options]]
-- [ ] Describe how Azure Functions scale to meet business needs
+- [ ] Create triggers and bindings to control when a function runs and where the output is directed
+- [ ] Connect a function to services in [[Concepts/Azure\|Azure]]
 
 { .block-language-dataview}
 
 Registered for Certificate  [Azure Developer Aspirant](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification) [[Study/AZ-204\|AZ-204]]
 Udemy Course [[Study/Udemy AZ-204 Developing Solutions For Microsoft Azure - Oktober 2023\|Udemy AZ-204 Developing Solutions For Microsoft Azure - Oktober 2023]]
 
+Online review of exam:
+- lot's of small detail questions
+- multiple questions about different languages ( not just c#...)
 
 Microsoft Training: [Startpoint](https://learn.microsoft.com/en-us/training/paths/create-azure-app-service-web-apps/)
 [[Study/Microsoft Course for AZ-204\|Microsoft Course for AZ-204]]
+
+[[unsorted/Azure serverless community library\|Azure serverless community library]]
+QuickStarts:
+
+[[Code/Create a Csharp function in Azure using Visual Studio Code# function in Azure using Visual Studio Code\|Create a Csharp function in Azure using Visual Studio Code# function in Azure using Visual Studio Code]]
 
 
 Microsoft Labs:
