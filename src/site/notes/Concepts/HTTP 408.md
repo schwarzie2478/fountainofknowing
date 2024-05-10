@@ -9,4 +9,4 @@
 | Homesite   | `VIEW[{url}][text(renderMarkdown)]`          |
 | MS Learn   | `VIEW[{ms-learn-url}][text(renderMarkdown)]` |
 
-[[HTTP\|HTTP]] Error code 408
+[[Concepts/Hypertext Transfer Protocol\|HTTP]] Error code 408
