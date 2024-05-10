@@ -24,15 +24,16 @@ Similar to [[Concepts/Azure Functions\|Azure Functions]] but,
 ## Difference with [[Concepts/Azure App Service WebJobs\|Azure App Service WebJobs]]
 
 > [!info]
-> Azure Functions is built on the WebJobs SDK, so it shares many of the same event triggers and connections to other Azure services.
+> Azure Functions is built on the [[Code/Azure Webjob SDK\|Azure Webjob SDK]], so it shares many of the same event triggers and connections to other Azure services.
 
-| |Functions|WebJobs with WebJobs SDK|
-|---|---|---|
-|Serverless app model with automatic scaling|Yes|No|
-|Develop and test in browser|Yes|No|
-|Pay-per-use pricing|Yes|No|
-|Integration with Logic Apps|Yes|No|
-|Trigger events|Timer  <br>Azure Storage queues and blobs  <br>Azure Service Bus queues and topics  <br>Azure Cosmos DB  <br>Azure Event Hubs  <br>HTTP/WebHook (GitHub  <br>Slack)  <br>Azure Event Grid|Timer  <br>Azure Storage queues and blobs  <br>Azure Service Bus queues and topics  <br>Azure Cosmos DB  <br>Azure Event Hubs  <br>File system|
+|                                                     | Functions                                                                                                                                                                                     | [[Concepts/Azure App Service WebJobs\|Azure App Service WebJobs]] with [[Code/Azure Webjob SDK\|Azure Webjob SDK]]                                                                                                       |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Serverless\|Serverless]] app model with [[automatic scaling\|automatic scaling]] | Yes                                                                                                                                                                                           | No                                                                                                                                                            |
+| Develop and test in browser                         | Yes                                                                                                                                                                                           | No                                                                                                                                                            |
+| [[Pay-per-use\|Pay-per-use]] pricing                             | Yes                                                                                                                                                                                           | No                                                                                                                                                            |
+| Integration with [[Concepts/Azure Logic Apps\|Azure Logic Apps]]               | Yes                                                                                                                                                                                           | No                                                                                                                                                            |
+| [[Trigger events\|Trigger events]]                                  | Timer  <br>Azure Storage queues and blobs  <br>Azure Service Bus queues and topics  <br>Azure Cosmos DB  <br>[[Azure Event Hubs\|Azure Event Hubs]]  <br>HTTP/WebHook (GitHub  <br>Slack)  <br>Azure Event Grid | Timer  <br>[[Azure Storage queue\|Azure Storage queue]] and [[blobs\|blobs]]  <br>[[Concepts/Azure Service Bus\|Azure Service Bus]] queues and topics  <br>[[unsorted/Azure Cosmos DB\|Azure Cosmos DB]]  <br>Azure Event Hubs  <br>File system |
+|                                                     |                                                                                                                                                                                               |                                                                                                                                                               |
 
 </div></div>
  
