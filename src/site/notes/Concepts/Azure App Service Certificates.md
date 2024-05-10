@@ -66,5 +66,5 @@ If you already have a working App Service certificate, you can:
  Note
 
 > [!attention] 
-> App Service Certificates are not supported in [[Azure National Clouds\|Azure National Clouds]] at this time.
+> App Service Certificates are not supported in [[Concepts/Azure National Clouds\|Azure National Clouds]] at this time.
 
