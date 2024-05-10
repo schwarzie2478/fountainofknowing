@@ -24,13 +24,13 @@ any of you who are familiar with  audio production will know that you typically 
 </div></div></span></li><li><span><div data-callout-metadata="" data-callout-fold="" data-callout="note" class="callout node-insert-event drop-shadow"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Note</div></div><div class="callout-content">
 sample rate was 16 khz and that's because for voice applications  the human voice is perfectly intelligible at quite low  sample rates
 </div></div></span></li><li><span><div data-callout-metadata="" data-callout-fold="" data-callout="note" class="callout node-insert-event drop-shadow"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Note</div></div><div class="callout-content">
-the first big challenge is  <a data-href="PInvoke" href="PInvoke" class="internal-link" target="_blank" rel="noopener">PInvoke</a> 
+the first big challenge is  <a data-href="PInvoke" href="PInvoke" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener" data-link-tags="#code/dotNET" data-link-status="stored" data-link-path="Code/PInvoke.md" style="--data-link-tags: #code/dotNET; --data-link-status: stored; --data-link-path: Code/PInvoke.md;">PInvoke</a> 
 </div></div></span></li><li><span><div data-callout-metadata="" data-callout-fold="" data-callout="note" class="callout node-insert-event drop-shadow"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Note</div></div><div class="callout-content">
 after a while you get to learn a dword means it's four bytes so I can use an INT  
 </div></div></span></li><li><span><div data-callout-metadata="" data-callout-fold="" data-callout="note" class="callout node-insert-event drop-shadow"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Note</div></div><div class="callout-content">
 one of the mistakes I actually made was  when I was doing this it was in the world of 32-bit operating systems and so a pointer and a dword were the same size
 </div></div></span></li><li><span><div data-callout-metadata="" data-callout-fold="" data-callout="note" class="callout node-insert-event drop-shadow"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Note</div></div><div class="callout-content">
-the next challenge I want to talk about though is <a data-href="garbage collection" href="garbage collection" class="internal-link" target="_blank" rel="noopener">garbage collection</a>
+the next challenge I want to talk about though is <a data-href="garbage collection" href="garbage collection" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener" data-link-tags="#concept/SRE" data-link-status="stored" data-link-path="Concepts/garbage collection.md" style="--data-link-tags: #concept/SRE; --data-link-status: stored; --data-link-path: Concepts/garbage collection.md;">garbage collection</a>
 </div></div></span></li><li><span><div data-callout-metadata="" data-callout-fold="" data-callout="note" class="callout node-insert-event drop-shadow"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Note</div></div><div class="callout-content">
 it uses a very intelligent algorithm called <a data-href="the general mark and sweep algorithm" href="the general mark and sweep algorithm" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener" data-link-tags="#concept/SRE" data-link-status="planted" data-link-path="Concepts/the general mark and sweep algorithm.md" style="--data-link-tags: #concept/SRE; --data-link-status: planted; --data-link-path: Concepts/the general mark and sweep algorithm.md;">the general mark and sweep algorithm</a> 
 </div></div></span></li><li><span><div data-callout-metadata="" data-callout-fold="" data-callout="note" class="callout node-insert-event drop-shadow"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Note</div></div><div class="callout-content">
@@ -38,7 +38,7 @@ the first problem is that anytime you're pausing it interferes with your ability
 </div></div></span></li><li><span><div data-callout-metadata="" data-callout-fold="" data-callout="note" class="callout node-insert-event drop-shadow"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Note</div></div><div class="callout-content">
 the second problem is the compaction problem: the garbage collector just moves it somewhere else you will crash your computer
 </div></div></span></li><li><span><div data-callout-metadata="" data-callout-fold="" data-callout="note" class="callout node-insert-event drop-shadow"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Note</div></div><div class="callout-content">
-solution: writing <a data-href="allocation free code" href="allocation free code" class="internal-link" target="_blank" rel="noopener">allocation free code</a>, so not actually  giving the garbage collector anything that it needs to do
+solution: writing <a data-href="allocation free code" href="allocation free code" class="internal-link data-link-icon data-link-icon-after data-link-text" target="_blank" rel="noopener" data-link-tags="#concept/SRE" data-link-status="stored" data-link-path="Concepts/allocation free code.md" style="--data-link-tags: #concept/SRE; --data-link-status: stored; --data-link-path: Concepts/allocation free code.md;">allocation free code</a>, so not actually  giving the garbage collector anything that it needs to do
 </div></div></span></li><li><span><div data-callout-metadata="" data-callout-fold="" data-callout="note" class="callout node-insert-event drop-shadow"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Note</div></div><div class="callout-content">
 you can pre-allocate your buffers 
 </div></div></span></li><li><span><div data-callout-metadata="" data-callout-fold="" data-callout="note" class="callout node-insert-event drop-shadow"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Note</div></div><div class="callout-content">
@@ -297,7 +297,7 @@ the challenges that I encountered when trying to implement audio code in net
 and 
 
 > [!NOTE]
-> the first big challenge is  [[PInvoke\|PInvoke]] 
+> the first big challenge is  [[Code/PInvoke\|PInvoke]] 
 
 
 I had to do a lot of what's
@@ -373,7 +373,7 @@ crashing my probably Windows XP or whatever it was back then I was using
 um 
 
 > [!NOTE]
-> the next challenge I want to talk about though is [[garbage collection\|garbage collection]]
+> the next challenge I want to talk about though is [[Concepts/garbage collection\|garbage collection]]
 
 and
 
@@ -439,7 +439,7 @@ I was initially writing all of this so what are the solutions
 well there's there's no solution to the garbage collector running other than
 
 > [!NOTE]
-> solution: writing [[allocation free code\|allocation free code]], so not actually  giving the garbage collector anything that it needs to do
+> solution: writing [[Concepts/allocation free code\|allocation free code]], so not actually  giving the garbage collector anything that it needs to do
 
 and in one sense it's not that hard to do with  audio programming because 
 
